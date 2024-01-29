@@ -1,5 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
+use Math\Math;
 
 require_once __DIR__ . "/../src/Math.php";
 
