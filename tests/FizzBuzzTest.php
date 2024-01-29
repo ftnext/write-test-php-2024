@@ -1,6 +1,7 @@
 <?php
+namespace FizzBuzz;
+
 use PHPUnit\Framework\TestCase;
-use FizzBuzz\FizzBuzz;
 
 require_once __DIR__ . "/../vendor/autoload.php";
 
